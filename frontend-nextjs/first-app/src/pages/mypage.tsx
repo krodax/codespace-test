@@ -1,4 +1,4 @@
-export default function mypage() {
+export default function Mypage() {
   return (
     <div>mypage</div>
   )
