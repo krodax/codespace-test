@@ -1,0 +1,11 @@
+{
+  "editor.guides.bracketPairs": "active",
+  "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+  "editor.language.colorizedBracketPairs": [
+    ["[", "]"],
+    ["(", ")"],
+    ["{", "}"],
+    ["<", "</"],
+    ["<", "/>"]
+  ]
+}
